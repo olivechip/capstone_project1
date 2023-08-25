@@ -1,0 +1,32 @@
+1. What goal will your website be designed to achieve?
+- custom user experience to review/rate games with other users
+
+2. What kind of users will visit your site? In other words, what is the demographic of
+your users?
+- gamers of all eras, provide a space for them to build community over
+
+3. What data do you plan on using? You may have not picked your actual API yet,
+which is fine, just outline what kind of data you would like it to contain.
+- video game api, names of games, names of platforms
+
+4. In brief, outline your approach to creating your project (knowing that you may not
+know everything in advance and that these details might change later). Answer
+questions like the ones below, but feel free to add more information:
+a. What does your database schema look like?
+- users, games, platforms
+
+b. What kinds of issues might you run into with your API?
+- game api may be down
+
+c. Is there any sensitive information you need to secure?
+- user email, passwords
+
+d. What functionality will your app include?
+- reguster/login, browse game titles, owned list, wish list, ratings, reviews
+
+e. What will the user flow look like?
+- register/login, search api db by fields, comment on games, view owned collection, view others profiles
+
+f. What features make your site more than CRUD? Do you have any stretch
+goals?
+- someday implement a feature to trade games for a set period of time
